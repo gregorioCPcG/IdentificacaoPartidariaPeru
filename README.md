@@ -1,6 +1,6 @@
 # IdentificacaoPartidariaPeru
 
-A base utilizada foi a o arquivo .dta
+A base utilizada foi a: https://drive.google.com/file/d/1SF7AA8PmGVIG7pivNV5mloc_66jLenF-/view?usp=sharing
 
 Os arquivos .XLS contém a tudo referente à códigos das questões
 
